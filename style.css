@@ -1,0 +1,9 @@
+/* Floating label fix */
+input:valid + label,
+select:valid + label,
+input:focus + label,
+select:focus + label {
+  top: 0.25rem;
+  font-size: 0.75rem;
+  color: #ec4899; /* Tailwind pink-500 */
+}
