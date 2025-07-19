@@ -48,6 +48,6 @@ Feel free to give feedback or suggestions!
 
 ## 📬 Contact
 - Email: anushika@example.com  
-- https://www.linkedin.com/in/anushika-anushika-176869249
+- https://www.linkedin.com/in/anushika-codes
 
 Thanks for visiting ✨
